@@ -1,0 +1,7 @@
+process 1 10 {
+    exit    300
+}
+
+process 2 100 {
+    exit 150
+}
